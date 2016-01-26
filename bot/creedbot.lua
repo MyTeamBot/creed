@@ -240,7 +240,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {107746299},{144658773}--Sudo users
+    sudo_users = {136888679},{170616523}--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -248,10 +248,10 @@ function create_config( )
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : X_x_fbi_hack_spam_X_x
+    ‼️ this bot is made by :@Mr_Vigeo
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-@yellowhat
+@woesdo1
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -344,7 +344,7 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-Creed bots Help for mods : Plugins
+ bots Help for mods : Plugins
 
 Banhammer : 
 
@@ -513,8 +513,8 @@ To send a message to an account by his/her ID
 
 〰〰〰〰〰〰〰〰〰〰〰
 3. Stats :©
-!stats creedbot (sudoers)✔️
-To see the stats of creed bot
+!stats bot (sudoers)✔️
+To see the stats of bot
 برای دیدن آمار ربات 
 
 !stats
